@@ -1,0 +1,43 @@
+soil,mineral(percentage),yield
+sand,30,6
+sand,20,10
+loam,15,14
+sand,40,5
+clay,30,12
+clay ,45,8
+clay ,20,16
+sand,20,11
+loam ,15,9
+loam ,30,17
+loam ,35,14
+loam ,20,13
+clay ,45,15
+sand,40,7
+sand,30,11
+clay ,25,9
+clay ,20,10
+sand,30,12
+loam ,25,18
+clay ,35,18
+loam ,45,19
+loam ,40,7
+loam ,15,9
+loam ,25,17
+sand ,40,8
+sand ,35,8
+clay ,40,6
+sand ,15,10
+loam ,15,11
+clay ,20,16
+clay ,30,18
+clay ,25,16
+sand ,45,12
+loam ,25,11
+clay ,35,5
+clay ,25,18
+loam ,15,13
+loam ,20,15
+sand ,45,7
+sand ,35,10
+sand ,30,11
+clay ,30,18
